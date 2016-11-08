@@ -1542,4 +1542,12 @@ a.selected-item:before {
 	color: #555;
 }
 
+.left {
+	text-align: left;
+}
+
+.right {
+	text-align: right;
+}
+
 /* End Media Query */
