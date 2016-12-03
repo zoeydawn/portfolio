@@ -120,10 +120,10 @@ $(document).ready(function() {
     // Start numbers animate at fun-facts section //
     $("#facts").appear(function() {
         $("#number_1").animateNumber({
-            number: 6811
+            number: 118016
         }, 2200);
         $("#number_2").animateNumber({
-            number: 53
+            number: 58
         }, 2200);
         $("#number_3").animateNumber({
             number: 427
