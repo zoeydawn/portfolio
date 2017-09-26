@@ -923,7 +923,7 @@ a.selected-item:before {
 ----------------------------------------- */
 
 .testmonials {
-	background: #333 url('http://placehold.it/1920x1280') center center no-repeat fixed;
+	background: #333 url('../img/nebula.png') center center no-repeat fixed;
 	background-size: cover;
 	color: #fff;
 	position: relative;
