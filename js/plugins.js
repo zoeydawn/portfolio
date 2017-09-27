@@ -120,10 +120,10 @@ $(document).ready(function() {
     // Start numbers animate at fun-facts section //
     $("#facts").appear(function() {
         $("#number_1").animateNumber({
-            number: 118016
+            number: 12180160
         }, 2200);
         $("#number_2").animateNumber({
-            number: 58
+            number: 64
         }, 2200);
         $("#number_3").animateNumber({
             number: 427
@@ -149,13 +149,13 @@ $(document).ready(function() {
         });
         // start numbers animate at skills section //
         $("#chart_num_1").animateNumber({
-            number: 70
+            number: 88
         }, 1500);
         $("#chart_num_2").animateNumber({
-            number: 83
+            number: 93
         }, 1500);
         $("#chart_num_3").animateNumber({
-            number: 91
+            number: 96
         }, 1500);
         $("#chart_num_4").animateNumber({
             number: 77
